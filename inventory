@@ -1,0 +1,5 @@
+[server_node]
+52.221.195.64
+[server_node:vars]
+ansible_user=ubuntu
+ansible_ssh_private_key_file=/root/.ssh/ec2-test-vpc1.pem
